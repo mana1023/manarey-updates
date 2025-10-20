@@ -1,5 +1,5 @@
 {
   "version": "1.0.1",
-  "path": "C:\\ManareyUpdates\\Manarey-Setup-1.0.1.exe",
-  "notes": "Correcciones:\n- Se corrigió el cierre de la app al presionar \"+\" para agregar stock.\n- En instalaciones nuevas se crea automáticamente la tabla productos.\n\nMejoras:\n- Aviso de actualización con botón \"Actualizar ahora\"."
+  "url": "https://TU_USUARIO.github.io/manarey-updates/Manarey-Setup-1.0.1.exe",
+  "notes": "Notas de esta versión."
 }
